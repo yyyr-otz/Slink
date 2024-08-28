@@ -10,7 +10,7 @@
     </p>
     <div class="flex mt-5">
       <HomeLink
-        href="https://github.com/yyyr-otz/Sink?tab=readme-ov-file#%EF%B8%8F-deployment"
+        href="https://github.com/yyyr-otz/Slink?tab=readme-ov-file#%EF%B8%8F-deployment"
         type="inverted"
         title="Start Deploy"
       >
